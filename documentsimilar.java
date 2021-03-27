@@ -61,7 +61,7 @@ class docsimilar {
                }
            catch (Exception e) 
                {
-                System.out.println("\nError:The file seems to empty/broken. Please enter new file:");
+                System.out.println("\nError:The file seems to be empty or doesn't exist. Please enter new file:");
                 continue;
                }
     }
