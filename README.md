@@ -14,6 +14,7 @@ Programming Language Used: Java
 2). Create two text files (.txt) that needs to be checked.
 
 3). Run the program and enter the directories of your text files 
+
     (Example : C:/User/Name/filename.txt)
    
 
