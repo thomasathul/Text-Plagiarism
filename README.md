@@ -12,14 +12,14 @@ Programming Language Used: Java
 
 
 
-## Steps to implement
-1). Copy/Clone the code to an IDE/Editor.
+## Implementation
 
-2). Create two text files (.txt) that needs to be checked.
+1).Create two text files (.txt) that needs to be checked.
 
-3). Run the program and enter the directories of your text files 
+2).Copy/Clone the code to an IDE/Editor.
+
+3). Run the program and enter the directories of your text files. 
 
     (Example : C:/User/Name/filename.txt)
    
-
 
