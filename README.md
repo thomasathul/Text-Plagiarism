@@ -3,10 +3,14 @@ A simple program to check whether the two documents are similar. The program che
 
 Programming Language Used: Java
 
+
+
 ## Requirements
 1). Text files (.txt)
 
-3). IDE/Terminal
+2). IDE/Terminal
+
+
 
 ## Steps to implement
 1). Copy/Clone the code to an IDE/Editor.
